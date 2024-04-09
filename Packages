@@ -1,13 +1,14 @@
-Package: com.ioshat.pubgmod
-Name: BGMI Mod Menu
-Author: Snoolie K
-Description: Fix iOS 15.0-15.3.1 hidden actions vuln
-Maintainer: Snoolie K
+Package: com.ps.ytx
+Version: 1.2.3
 Architecture: iphoneos-arm64
-Section: Tweaks
-Version: 3.1
-Filename: ./debs/PwnAppleHat_BGMI_Rootless.deb
+Maintainer: PoomSmart
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/PwnAppleHat-BGMI-Rootless.deb
 Size: 1282992
 MD5sum: 42144A230552D1A899B7D3E8B20B6763
 SHA1: DB56C618EE2CC2F6FCA81CAC4B36F3F74F553ED0
 SHA256: 64A1681D7265B39CA10201BC95495B8573B835C887692AC72EDD10C20A04C135
+Section: Tweaks
+Description: A lightweight YouTube improvement tweak.
+Author: PoomSmart
+Name: bgmi
