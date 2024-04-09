@@ -1,6 +1,6 @@
 Package: com.ioshat.offsetsmaster
 Version: 3.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: iOS_hAT
 Filename: debs/rootless/Packages/PwnAppleHat_BGMI_Rootless.deb
 Size: 1282992
