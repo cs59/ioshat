@@ -6,10 +6,74 @@ Architecture: iphoneos-arm64
 Description: Powerfull hack for Pubg made by @iOS_hAT
 Maintainer: iOS_hAT
 Author: iOS_hAT
-Section: Tweaks
+Section: PUBG
 Filename: ./debs/PwnAppleHat-BGMI-Rootless.deb
 Homepage: x.com/iOS_hAT
 Size: 1282992
 MD5sum: 42144a230552d1a899b7d3e8b20b6763
 SHA1: db56c618ee2cc2f6fca81cac4b36f3f74f553ed0
 SHA256: 64a1681d7265b39ca10201bc95495b8573b835c887692ac72edd10c20a04c135
+
+Package: com.ioshat.offsetsmaster
+Name: PwnAppleHat GL Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/PwnAppleHat-GL-Rootless.deb
+Homepage: x.com/iOS_hAT
+Size: 1282992
+MD5: f18ec8c7bb8314d28a0493a10873e543
+SHA1: 7d6c2951abbf33da625058c60e050ce3e1ea46e1
+SHA256: 7f7fc140efd92e3806e72d9f066057b6458161562a876b4c5f265e1f88ea3e48
+
+Package: com.ioshat.offsetsmaster
+Name: PwnAppleHat KR Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/PwnAppleHat-KR-Rootless.deb
+Homepage: x.com/iOS_hAT
+Size: 1282992
+MD5: 289897b23e6c75ebd1bb55a1c0d6a0b9
+SHA1: 8558960553e535ccde4aae8c4fb66364fbc59d74
+SHA256: c8519079d9a83ea27930db6956610d8e55d4f1ba9acc2d334d0968706692d72c
+
+Package: com.ioshat.offsetsmaster
+Name: PwnAppleHat VN Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/PwnAppleHat-VN-Rootless.deb
+Homepage: x.com/iOS_hAT
+Size: 1282992
+MD5: 52e814bedc2cd7d225e94fa68e58517e
+SHA1: a76ff76d8a5d95625917da63fee001c4d445cdda
+SHA256: 395597aee78629f6f192c78ed07eb36bf3b03702a1731662da1e8b89253bb457
+
+Package: com.ioshat.offsetsmaster
+Name: PwnAppleHat TW Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/PwnAppleHat-TW-Rootless.deb
+Homepage: x.com/iOS_hAT
+Size: 1282992
+MD5: a31a80f69447cd599ecf9c02436e0c31
+SHA1: c1944aa2ea379d308149fddf0858ad8d52da59c6
+SHA256: ab24352942563653d24fad6dc97d450989c443033623bf05be877ad511967721
