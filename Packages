@@ -23,9 +23,9 @@ Description: Powerfull hack for Pubg made by @iOS_hAT
 Maintainer: iOS_hAT
 Author: iOS_hAT
 Section: Tweaks
-Filename: ./debs/PwnAppleHat-GL-Rootless.deb
+Filename: ./debs/com.ioshat.global_3.1_iphoneos-arm64.deb
 Homepage: x.com/iOS_hAT
-Size: 1281308
-MD5: f18ec8c7bb8314d28a0493a10873e543
-SHA1: 7d6c2951abbf33da625058c60e050ce3e1ea46e1
-SHA256: 7f7fc140efd92e3806e72d9f066057b6458161562a876b4c5f265e1f88ea3e48
+Size: 933384
+MD5: 057c8ce80ec529b8727cfb60a10a1736
+SHA1: 23175eba389af5c381697a3bf8a521e5fd8c092c
+SHA256: 444ccaea158efd01680965ad10a23db7021282c36bc170ebf5e9f4bfb8482f80
