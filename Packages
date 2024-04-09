@@ -6,7 +6,7 @@ Architecture: iphoneos-arm64
 Description: Powerfull hack for Pubg made by @iOS_hAT
 Maintainer: iOS_hAT
 Author: iOS_hAT
-Section: Tweaks
+Section: PUBG
 Filename: ./debs/PwnAppleHat-BGMI-Rootless.deb
 Homepage: x.com/iOS_hAT
 Size: 1282992
@@ -22,10 +22,26 @@ Architecture: iphoneos-arm64
 Description: Powerfull hack for Pubg made by @iOS_hAT
 Maintainer: iOS_hAT
 Author: iOS_hAT
-Section: Tweaks
+Section: PUBG
 Filename: ./debs/com.ioshat.global_3.1_iphoneos-arm64.deb
 Homepage: x.com/iOS_hAT
 Size: 933384
 MD5: 057c8ce80ec529b8727cfb60a10a1736
 SHA1: 23175eba389af5c381697a3bf8a521e5fd8c092c
 SHA256: 444ccaea158efd01680965ad10a23db7021282c36bc170ebf5e9f4bfb8482f80
+
+Package: com.ioshat.korea
+Name: PwnAppleHat KR Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/com.ioshat.korea_3.1_iphoneos-arm644.deb
+Homepage: x.com/iOS_hAT
+Size: 935792
+MD5: 80ad6392dd8d436612a5625106283c8e
+SHA1: 378908bae1627d549ce5f92fd4c600f8df2f0710
+SHA256: dabe067a17ec92013089cbad0d3bc8be6a7f8a41615f6f92bf14e02c2f9e6886
