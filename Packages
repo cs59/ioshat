@@ -2,7 +2,7 @@ Package: com.ioshat.offsetsmaster
 Name: PwnAppleHat BGMI Hack
 Depends: mobilesubstrate
 Version: 3.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Powerfull hack for Pubg made by @iOS_hAT
 Maintainer: iOS_hAT
 Author: iOS_hAT
