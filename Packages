@@ -13,3 +13,19 @@ Size: 1282992
 MD5: 42144a230552d1a899b7d3e8b20b6763
 SHA1: db56c618ee2cc2f6fca81cac4b36f3f74f553ed0
 SHA256: 64a1681d7265b39ca10201bc95495b8573b835c887692ac72edd10c20a04c135
+
+Package: com.ioshat.global
+Name: PwnAppleHat GL Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: Tweaks
+Filename: ./debs/PwnAppleHat-GL-Rootless.deb
+Homepage: x.com/iOS_hAT
+Size: 1281308
+MD5: f18ec8c7bb8314d28a0493a10873e543
+SHA1: 7d6c2951abbf33da625058c60e050ce3e1ea46e1
+SHA256: 7f7fc140efd92e3806e72d9f066057b6458161562a876b4c5f265e1f88ea3e48
