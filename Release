@@ -1,8 +1,17 @@
-Origin: iOS_hAT
-Label: iOS_hAT
+Origin: Snoolie's repo
+Label: Snoolie's repo
 Suite: stable
 Version: 1.0
-Codename: ioshat
-Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Architectures: iphoneos-arm64
 Components: main
-Description: A Official iOS_hAT Repository!
+Description: (Rootless) Repository for my tweaks
+MD5Sum:
+ 9D262EEA3CC752FDBCF8AFC29A243723 3313 Packages
+ ED4E5FA91E9A2A5566AEA468C8DF5F8D 1352 Packages.bz2
+SHA1:
+ 13EE1248324887CD85F96D0E66D9ADE66BEC0E1B 3313 Packages
+ 3D207CD0FD54550106BC5E5B4F1FD14F01997CAE 1352 Packages.bz2
+SHA256:
+ 752C0942697BD9ACAD89E03F7A2B33E5C531D6B4693A9674512C315AF2C8B922 3313 Packages
+ FBC0E9E7C793BFD1F21851051F67A110683407E6D60CCE0B06A09F4A53745876 1352 Packages.bz2
