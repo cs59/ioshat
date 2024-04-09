@@ -1,7 +1,7 @@
 Origin: iOS_hAT's Repo
 Label: iOS_hAT's Repo
 Suite: stable
-Version: 1.2
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
