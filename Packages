@@ -77,3 +77,19 @@ Size: 1279038
 MD5sum: a31a80f69447cd599ecf9c02436e0c31
 SHA1: c1944aa2ea379d308149fddf0858ad8d52da59c6
 SHA256: ab24352942563653d24fad6dc97d450989c443033623bf05be877ad511967721
+
+Package: com.ioshat.twto
+Name: BHTwitter
+Depends: mobilesubstrate
+Version: 2.6
+Architecture: iphoneos-arm64
+Description: Powerfull hack for Pubg made by @iOS_hAT
+Maintainer: iOS_hAT
+Author: iOS_hAT
+Section: PUBG
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Homepage: x.com/iOS_hAT
+Size: 8692250
+MD5: 64deb0bf6deee1055a00997088a8392e
+SHA1: 1a9424e145f80abf98c6512fb0eaab21fe3e794a
+SHA256: 2686ffb3a39fd8b6cc710858f112f00e90116338188238c8d5cb734f8afe94e3
