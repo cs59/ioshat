@@ -1,8 +1,9 @@
 Package: com.ioshat.offsetsmaster
+Name: PwnAppleHat_BGMI_Rootless.deb
 Version: 3.1
 Architecture: iphoneos-arm64
 Maintainer: iOS_hAT
-Filename: debs/rootless/bgmihack.deb
+Filename: ./debs/rootless/bgmihack.deb
 Size: 1282992
 MD5sum: 42144A230552D1A899B7D3E8B20B6763
 SHA256: 64A1681D7265B39CA10201BC95495B8573B835C887692AC72EDD10C20A04C135
@@ -14,7 +15,7 @@ Package: com.ioshat.bhtwitter
 Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: iOS_hAT
-Filename: debs/rootless/bhtwitter.deb
+Filename: ./debs/rootless/bhtwitter.deb
 Size: 8692250
 MD5sum: 64DEB0BF6DEEE1055A00997088A8392E
 SHA256: 2686FFB3A39FD8B6CC710858F112F00E90116338188238C8D5CB734F8AFE94E3
