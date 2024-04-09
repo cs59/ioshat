@@ -6,7 +6,7 @@ Maintainer: Snoolie K
 Architecture: iphoneos-arm64
 Section: Tweaks
 Version: 3.1
-Filename: ./debs/rootless/PwnAppleHat_BGMI_Rootless.deb
+Filename: ./debs/PwnAppleHat_BGMI_Rootless.deb
 Size: 1282992
 MD5sum: 42144A230552D1A899B7D3E8B20B6763
 SHA1: DB56C618EE2CC2F6FCA81CAC4B36F3F74F553ED0
