@@ -30,7 +30,11 @@ twitter_username: iOS_hAT
 github_username:  cs59
 
 # Build settings
+<<<<<<< HEAD
 theme: midnight
+=======
+theme: jekyll-theme-midnight
+>>>>>>> 5bb47b9a8e6dcf62dc75910434294751a3f90a9d
 plugins:
   - jekyll-feed
 
